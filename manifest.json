@@ -1,0 +1,14 @@
+{
+    "lang": "pt-BR",
+    "name": "Meu PWA",
+    "short_name": "meupwa",
+    "description": "Minha Aplicação Web Progressiva",
+    "start_url": "/",
+    "background_color": "#222",
+    "theme_color": "#222",
+    "orientation":"any",
+    "display": "standalone",
+    "icons":[
+        { "src": "files/icon512.png", "sizes":"512x512" }
+    ]
+}
