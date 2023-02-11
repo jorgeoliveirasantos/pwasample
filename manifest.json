@@ -1,8 +1,8 @@
 {
     "lang": "pt-BR",
-    "name": "Meu PWA",
-    "short_name": "meupwa",
-    "description": "Minha Aplicação Web Progressiva",
+    "name": "Aprendizado - Jorge Souza",
+    "short_name": "aprendizado-jorgesouza",
+    "description": "Material didático on-line",
     "start_url": "/",
     "background_color": "#222",
     "theme_color": "#222",
