@@ -17,10 +17,8 @@ html {
   }
   
   .conteiner {
-    width: 15rem;
+    width: 100%;
     padding: 2rem;
-    border-radius: .5rem;
-    box-shadow: 0 0 2rem 0 #fff1;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -39,5 +37,6 @@ html {
   }
   
   .conteiner img {
-    width: 100%;
+    width: 50%;
+    max-height: 50%;
   }
